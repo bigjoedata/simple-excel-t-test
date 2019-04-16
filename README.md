@@ -1,1 +1,1 @@
-# simple-excel-t-test
+Just a simple excel t-test tool. Instructions included.
